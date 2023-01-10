@@ -6,7 +6,7 @@
     "dev": "next"
   },
   "dependencies": {
-    "firebase-admin": "^8.13.0",
+    "firebase-admin": "^11.4.1",
     "next": "^9.5.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
